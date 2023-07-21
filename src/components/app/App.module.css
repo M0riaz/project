@@ -1,0 +1,18 @@
+
+.app {
+    display: flex;
+    flex-direction: column;
+   height: 100vh;
+    /*color: #f2f2f3;*/
+    background-color: #f3f0f0;
+
+}
+.main {
+    display: flex;
+    justify-content: center;
+
+}
+
+.img{
+    width: 600px;
+}
